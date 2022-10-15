@@ -1,0 +1,67 @@
+body{
+    background-color:rgba(85,85,85,0.6);
+}
+td {
+    padding: 10px;
+    border-radius: 4px;
+}
+#days {
+   font-weight: bold ;
+   font-style: oblique;
+}
+table {
+    text-align: center;
+    border-radius: 5px;
+}
+#options a {
+    text-decoration-line: none;
+    font-size: 20px;
+    color: rgba(51,0,51,0.6);
+}
+#extra {
+    position: relative;
+    text-align: left;
+}
+#times {
+    font-weight: bolder;
+    font-style: italic;
+}
+#extra {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+#dropList {
+    position: absolute;
+    left: 30px; 
+}
+option {
+    font-size: 15px;
+}
+button {
+    padding: 3px 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    border-radius: 4px;
+    border: 0;
+}
+#entertain  {
+    display: none; 
+    left: 0;
+    width: 300px;
+    margin: 0;
+}
+div#OB  {
+    display: none;
+    left: 0;
+    width: 300px;
+}
+div#OC {
+    display: none;
+    left: 0;
+    width: 300px;
+    margin: 0;
+}
+#button {
+    right: 10%;
+    position: absolute;
+}
